@@ -60,3 +60,5 @@ Telegram: https://t.me/MobyDickToken0
 Twitter: https://twitter.com/mobyDickT
 
 Medium: https://mdtoken.medium.com/mobydick-token-d84094187b28
+
+Reddit: https://www.reddit.com/user/MobyDickToken
